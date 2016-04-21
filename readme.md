@@ -1,4 +1,4 @@
-# pushit - (*push it*)
+# pushit *(push it)*
 [![NPM version](https://badge.fury.io/js/pushit.svg)](https://badge.fury.io/js/pushit)
 [![Build Status](https://travis-ci.org/dustinspecker/pushit.svg?branch=master)](https://travis-ci.org/dustinspecker/pushit)
 [![Coverage Status](https://img.shields.io/coveralls/dustinspecker/pushit.svg)](https://coveralls.io/r/dustinspecker/pushit?branch=master)
