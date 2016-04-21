@@ -17,7 +17,14 @@
     "type": "git",
     "url": "https://github.com/dustinspecker/pushit.git"
   },
-  "keywords": [],
+  "keywords": [
+    "git",
+    "push",
+    "pushit",
+    "salt",
+    "pepa",
+    "salt-n-pepa"
+  ],
   "author": {
     "name": "Dustin Specker",
     "email": "DustinSpecker@DustinSpecker.com",
