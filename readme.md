@@ -39,5 +39,7 @@ git pushit --force origin master
 # Warning: Don't force push to master
 ```
 
+Works on Mac. Should work on Linux. Hopefully, works on Windows.
+
 ## LICENSE
 MIT © [Dustin Specker](https://github.com/dustinspecker)
