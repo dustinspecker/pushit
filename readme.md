@@ -31,7 +31,7 @@ git pushit
 Audio snippet from Salt-N-Pepa's "Push It" will play to make sure Git pushes ***real good***.
 
 ```bash
-# also works with the normal `git push` options and arguments
+# also works with `git push` options and arguments
 git pushit --force origin master
 # ^ pushed really good
 
