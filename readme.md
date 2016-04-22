@@ -20,6 +20,8 @@
 npm install --global pushit
 ```
 
+**Windows users will have to install [mplayer](http://www.mplayerhq.hu/design7/dload.html) and add mplayer to the PATH.** Mac and Linux users may also install mplayer if `pushit` doesn't work (but it should).
+
 ## Usage
 ```bash
 # perform a `git push`
@@ -38,8 +40,6 @@ git pushit --force origin master
 
 # Warning: Don't force push to master
 ```
-
-Works on Mac. Should work on Linux. Hopefully works on Windows.
 
 ## LICENSE
 MIT © [Dustin Specker](https://github.com/dustinspecker)
